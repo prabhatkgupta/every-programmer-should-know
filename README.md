@@ -3,17 +3,17 @@
 ----
 
 # Every Programmer Should Know :thinking:
-A collection of (mostly) technical things every software developer should know.  
+A collection of (mostly) technical things every software developer should know.
 
 :point_up: *These are resources I can recommend to every programmer regardless of their skill level or tech stack*
 
-Highly opinionated :bomb:. Not backed by science.  
+Highly opinionated :bomb:. Not backed by science.
 Comes in no particular order :recycle:
 
 U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
 U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
-*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
+*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.
 But knowing the stuff will help you become better! :muscle:*
 
 *P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
@@ -25,8 +25,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ### Falsehoods
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
-  💊 Curated list of falsehoods programmers believe in.    
+- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
+  💊 Curated list of falsehoods programmers believe in.
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
 ### Algorithms
@@ -35,7 +35,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Data Structures
-- :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+- :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
@@ -118,6 +118,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 - :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
 - :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+- :movie_camera: [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 
 
 ### Practices
@@ -130,9 +131,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [SICP: Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)  
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
   Learn the basics of a language in a highly condensed way.
-- [Hyperpolyglot](http://hyperpolyglot.org/)  
+- [Hyperpolyglot](http://hyperpolyglot.org/)
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
@@ -160,12 +161,13 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+- :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 
 ###  Fine-tune Your Resume 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### Open Source
-- :globe_with_meridians: [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- :globe_with_meridians: [Learn how to use Git and GitHub](https://www.deployhq.com/git)
 
 ### Remote Work
 - :globe_with_meridians: [Remotive.io: Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
@@ -208,6 +210,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Licenses
 - [Choose An Open Source License](https://choosealicense.com/)
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
+- [How open source licenses work and how to add them to your projects](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94)
 
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
@@ -238,3 +241,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [CodeCombat](https://codecombat.com/)
 - :link: [InterviewCake](https://www.interviewcake.com/)
 - :link: [At Coder](https://atcoder.jp/)
+- :link: [Codility](https://www.codility.com/)
